@@ -1,5 +1,19 @@
 ###main text###
 
-Esta es la página principal de notas
+## INTRODUCCIÓN ##
+Este es mi primer repositorio de GitHub donde experimento con proyectos
+personales y aprendo desarrollo web
+
+## OBJETIVOS ##
+* Comprobar funcionamiento.
+
+## ESTRUCTURA DEL PROYECTO ##
+
+## IDEAS FUTURAS ##
+
+## CONTACTO ##
+
+## FECHAS IMPORTANTES ##
 
 Estoy escribiendo cambios para ver como se ven reflejados.
+Escribiendo en Visual Code Studio parece un poco mejor todo.
